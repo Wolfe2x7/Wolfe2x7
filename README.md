@@ -16,4 +16,4 @@ applications that can record chiptunes from the MIDI scores I write, from the we
 I have recently picked up 3D modelling, and I'd like to think I'm pretty decent at it for limited-poly models. 3D seems easier for me than
 2D artwork -- except for animations in either case. Inanimate objects are good. I use Wings3D.
 
-GitHub is still really esoteric to me, and its site design is completely baffling -- needlessly complicating something as simple as downloading or uploading files! I hate it, but it is what it is. So please bear with me on anything specifically relating to this wacky website!
+I'm still green with GitHub, so please bear with me on anything specifically relating to this website. Thanks!
