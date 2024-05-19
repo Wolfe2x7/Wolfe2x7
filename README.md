@@ -1,3 +1,3 @@
-Mostly-self-taught independent game developer, using [Godot Engine](https://github.com/godotengine/godot) since 2020.
+Mostly-self-taught independent game developer, using [Defold](https://defold.com/) since 2024.
 
 [Lupine Vidya on Itch.io](https://lupine-vidya.itch.io/)
