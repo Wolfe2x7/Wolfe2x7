@@ -1,3 +1,3 @@
-Mostly-self-taught independent game developer making sims.
+Independent game developer making sims and writing shaders.
 
 [Lupine Vidya on Itch.io](https://lupine-vidya.itch.io/)
