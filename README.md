@@ -1,7 +1,7 @@
 Solo developer specializing in 3D shaders and physics, wearing all the hats.
 ```
-           GLSL (& related) 🌄 ------------------------------>
                                  Lua, Defold 🌒 ------------->
+           GLSL (& related) 🌄 ------------------------------>
           Godot 3 🤖 --------------\           /------------->
  GDevelop 4 🇬 -->          Godot 4 🤖 ----💥…
 --------> 🏰 RPG Maker
